@@ -1,7 +1,7 @@
 # strategy.py
 import pandas as pd
 import logging
-import numpy as np
+
 
 
 def apply_strategy(data: pd.DataFrame) -> pd.DataFrame:
