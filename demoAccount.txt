@@ -1,0 +1,3 @@
+server-name: Exness-MT5Trial14
+account number: 190741926
+password: coolCG6183#

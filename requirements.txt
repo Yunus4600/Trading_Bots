@@ -1,0 +1,5 @@
+# requirements.txt
+pandas==2.0.0
+ta==0.10.2
+requests==2.28.2
+python-dotenv==1.0.0
